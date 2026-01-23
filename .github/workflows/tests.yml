@@ -17,7 +17,7 @@ jobs:
           node-version: '20'
 
       - name: Встановити залежності
-        run: npm ci
+        run: npm install
 
       - name: Запустити модульні тести
         run: npm test
