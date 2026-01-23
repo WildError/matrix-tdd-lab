@@ -1,0 +1,13 @@
+{
+  "name": "mtrx-tdd-lab",
+  "version": "1.0.0",
+  "description": "Лабораторна робота №2: TDD (Mocha + Chai) на прикладі операцій над матрицями",
+  "type": "commonjs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.2.0"
+  }
+}
